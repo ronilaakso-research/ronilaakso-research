@@ -1,7 +1,7 @@
 # :mortar_board: Dr. Roni Laakso 
 
 **Legal scholar focusing on Banking Regulation & Corporate Governance**  
-🏛️ Dual Affiliation: *Aalto University & University of Helsinki*
+🏛️ Affiliation: *Aalto University & University of Helsinki*
 
 ---
 
