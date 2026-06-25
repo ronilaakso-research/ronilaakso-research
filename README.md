@@ -1,6 +1,6 @@
-# Hi, I'm Dr. Roni Laakso 👋
+# Dr. Roni Laakso :mortar_board:
 
-**Postdoctoral Researcher focusing on Banking Regulation & Corporate Governance**  
+**Legal scholar focusing on Banking Regulation & Corporate Governance**  
 🏛️ Dual Affiliation: *Aalto University & University of Helsinki*
 
 ---
