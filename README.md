@@ -37,4 +37,4 @@ Key areas of expertise:
 ---
 
 ### 🌐 Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/ronilaakso) | 🎓 [Personal Website](https://ronilaakso.com)
+💼 [LinkedIn](https://www.linkedin.com/in/ronilaakso) | 🎓 [Personal Website](https://ronilaakso.com) | 🆔 [ORCID](https://orcid.org/0009-0005-1359-3268) | 📝 [Google Scholar](https://scholar.google.com/citations?user=XAoYnpgAAAAJ&hl=fi)
