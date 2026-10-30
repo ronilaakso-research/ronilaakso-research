@@ -1,12 +1,11 @@
-# :mortar_board: Dr. Roni Laakso 
+# :mortar_board: Roni Laakso
 
-**Legal scholar focusing on Banking Regulation & Corporate Governance**  
-🏛️ Affiliation: *University of Helsinki, Faculty of Law & Aalto University, School of Business, Department of Accounting and Business Law*
+**Legal scholar and practitioner in banking regulation and corporate governance**
 
 ---
 
-### 🔍 Research Agenda & Expertise
-My research sits at the intersection of **Banking Regulation, Corporate Governance, and Systemic Risk Management**. 
+### 🔍 Research Focus
+My research sits at the intersection of **banking regulation, corporate governance, and systemic risk management**, with a focus on board governance, risk appetite, and risk culture in systemically important banks.
 
 Key areas of expertise:
 *   Corporate governance
@@ -24,17 +23,13 @@ Key areas of expertise:
 
 ---
 
-### 📚 Major Publications
-*   **Laakso, R. (2023).** *Corporate Governance in Systemic Banks: Reducing Risk Appetite and Systemic Risk through the Regulation of Board Governance*. Available open-access via [Helsinki University Repository (Helda)](http://hdl.handle.net/10138/566816).
-
----
-
-### 📄 Active Research Projects
-*   **Risk Culture:** *Can Hard Law be Used to Shape Soft Realities? The Scope and Limits of Regulating and Supervising Risk Culture within the European Banking Sector*
-*   **Board Remuneration:** *Bond-Based Compensation for Bank Boards: Aligning the Interests of Boardrooms and Bondholders*
-*   **ECB Fit & Proper Assessments:** *Fit & Proper Assessments in European Banking Supervision: Is the Assessment Process Fit for Purpose?*
+### 📚 Publications
+*   **Laakso, R. (2023).** *Corporate Governance in Systemic Banks: Reducing Risk Appetite and Systemic Risk through the Regulation of Board Governance*. Open access via the [University of Helsinki repository (Helda)](http://hdl.handle.net/10138/566816).
+*   Working papers: [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3519708)
+*   Publications and citations: [Google Scholar](https://scholar.google.com/citations?user=XAoYnpgAAAAJ&hl=fi)
+*   Full and current list of publications and projects: [ronilaakso.com](https://ronilaakso.com)
 
 ---
 
 ### 🌐 Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/ronilaakso) | 🎓 [Personal Website](https://ronilaakso.com) | 🆔 [ORCID](https://orcid.org/0009-0005-1359-3268) | 📝 [Google Scholar](https://scholar.google.com/citations?user=XAoYnpgAAAAJ&hl=fi)
+💼 [LinkedIn](https://www.linkedin.com/in/ronilaakso) | 🎓 [Personal Website](https://ronilaakso.com) | 🆔 [ORCID](https://orcid.org/0009-0005-1359-3268) | 📄 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3519708) | 📝 [Google Scholar](https://scholar.google.com/citations?user=XAoYnpgAAAAJ&hl=fi)
